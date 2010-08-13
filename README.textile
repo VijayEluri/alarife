@@ -13,8 +13,6 @@ También puede ser utilizado para facilitar la actualización de software en ent
 
 * Raúl Expósito (raul ARROBA raulexposito PUNTO com)
 
-Consultar también:
+*Consultar también*:
 
-* "Web del proyecto":http://raulexposito.com/proyectos/alarife.
-
-
+* "Web del proyecto":http://raulexposito.com/proyectos/alarife
