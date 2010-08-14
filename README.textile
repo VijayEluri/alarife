@@ -1,9 +1,9 @@
 h1. ¿Qué es Alarife?
 
-"Alarife":http://raulexposito.com/proyectos/alarife es un componente software con "licencia libre":http://sam.zoy.org/wtfpl/ cuya función es facilitar el desarrollo del software permitiendo generar, regenerar y actualizar esquemas de bases de datos:
+"Alarife":http://raulexposito.com/proyectos/alarife es un componente software con "licencia libre":http://es.wikipedia.org/wiki/WTFPL cuya función es facilitar el desarrollo del software permitiendo generar, regenerar y actualizar esquemas de bases de datos:
 
 # Re/genera el modelo de datos que utilice nuestra aplicación, logrando que todos los desarrolladores y los testeadores de un mismo equipo manejen el mismo conjunto de datos.
-# Actualiza, en caso de ser necesario, un modelo de datos durante su puesta en marcha en producción.
+# Actualiza, en caso de ser necesario, un modelo de datos durante su puesta en marcha en pre/producción.
 
 Dado su origen, "alarife":http://raulexposito.com/proyectos/alarife está pensado para ser utilizado por desarrolladores y testeadores de software que basen su tecnología en Java y cuyos productos necesiten utilizar bases de datos.
 
